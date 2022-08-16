@@ -9,7 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Data Aisin</title>
+    <!-- Custom Page Logo -->
+    <link href="<?php echo base_url('assets/img/aisin.svg'); ?>" rel="icon">
+    <title>Data Accident</title>
 
     <!-- Custom fonts for this template -->
     <link href="<?= base_url('assets/'); ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
